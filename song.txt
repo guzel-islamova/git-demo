@@ -2,17 +2,22 @@ sword and spear
 wall of shields
 standing strong 
 on this their chosen battle field
-<<<<<<< HEAD
+
 
 form the lines
 shield by shield
 side by side
 we're marching into destiny
-=======
->>>>>>> feature
+
 
 
 march as one
 dont look back
 odens sons
 attack
+
+march as one
+dont look bacj
+odins sons
+attack
+
